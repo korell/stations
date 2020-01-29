@@ -1,0 +1,18 @@
+{"stations" :[
+  {
+    "id": 1,
+    "name": "Station 1",
+    "position": {
+      "lng": 1.450359,
+      "lat": 43.613683
+    }
+  },
+  {
+    "id": 2,
+    "name": "Station 2",
+    "position": {
+      "lng": 1.419374,
+      "lat": 43.591440
+    }
+  }
+]}
